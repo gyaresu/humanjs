@@ -1,4 +1,4 @@
-var MainView = require('./main-view');
+var MainView = require('./views/main');
 var Router = require('./router');
 var domready = require('domready');
 

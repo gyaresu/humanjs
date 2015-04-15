@@ -1,6 +1,6 @@
 var View = require('ampersand-view');
 
 module.exports = View.extend({
-	template: '<body>Hello World!</body>',
+	template: "<div>Home div dropped into the # view</div>",
 	autoRender: true
 });
